@@ -1,0 +1,25 @@
+{
+  "name": "emilia_cole",
+  "version": "1.0.0",
+  "description": "tp_Emilia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CastilloValeria/EMILIA_COLE.git"
+  },
+  "keywords": [
+    "vale"
+  ],
+  "author": "castilloValeria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CastilloValeria/EMILIA_COLE/issues"
+  },
+  "homepage": "https://github.com/CastilloValeria/EMILIA_COLE#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
