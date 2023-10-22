@@ -1,0 +1,55 @@
+.fondo-about{
+    background-image: url("/img/emilia-about.jpg");
+    background-repeat:no-repeat;
+    background-size: 74.2%;
+    background-position:right;
+    width:100%;
+   height:660px;
+}
+.header-about{
+    text-align: right;
+}
+.navegador-horizontal a{
+    text-decoration:none;
+    text-align:right;
+    color:#000000;
+    font-weight: bold;
+}
+.navegador-horizontal {
+    background-color:rgba(253, 253, 253, 0.526);
+    padding:20px 2px 2px 0px;
+    margin-right:15px;
+    display:inline block;    
+}
+.navegador-horizontal-redes a{
+    color:#000000;
+    margin-right:20px;
+    text-align: right;
+    display: inline;
+    background-size:12px ;
+   }
+h1{
+    padding: 0px 25px 35px 0px;
+    margin:0px;
+    font-size:60px;
+    color:black ;
+    font-weight:bold;
+}
+.info_about{
+    color:#008C73;
+    font-size:27px ;
+    font-family:'Tilt Neon', sans-serif;
+    margin:20px 0px 35px 20px;
+}
+.info_about2{
+    color:#008C73;
+    font-size:27px ;
+    font-family:'Tilt Neon', sans-serif;
+    margin: 85px 0px 35px 30px;
+}
+h3{
+    font-size:16px;
+    color:#008C73;
+    font-family:'Raleway', sans-serif;
+    margin:20px 0px 30px 30px;
+}

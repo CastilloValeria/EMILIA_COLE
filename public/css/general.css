@@ -1,0 +1,30 @@
+:root{
+    --color-gris:#85ADAB;
+    --color-negro:black;
+    --color-verde:#008C73;
+    --color-background:#ffffff;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font: weight 300px;
+    background-color: var var(--color-background);
+}
+.navegador-horizontal a{
+    text-decoration:none;
+    text-align:right;
+    color:#000000;
+    font-weight: bold;
+}
+.navegador-horizontal {
+    background-color:rgba(253, 253, 253, 0.526);
+    padding:20px 2px 2px 0p;
+    margin-right: 15px;
+    display:inline block;
+}
+.navegador-horizontal-redes a{
+    color:#000000;
+    margin-right:20px;
+    text-align: right;
+    display: inline;
+    background-size:12px ;
+   }

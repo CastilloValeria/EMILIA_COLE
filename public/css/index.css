@@ -1,0 +1,40 @@
+.body_home{
+    background-image:url("/img/emilia-home.jpg");
+    background-size: 70%;
+    background-position:right;
+    background-repeat:no-repeat;
+   
+
+}
+.barra_navegacion ul li a{
+    text-decoration:none;
+    margin-left:5px;
+    margin:10px 0px 10px 20px;
+    color:grey;
+    font-size:16px;
+    font-family:'Raleway', sans-serif;
+}
+.barra-redes-Sociales a{
+    color:black;
+    font-size: 12px;
+    display: inline;
+    margin-left:-0.5px ;
+    margin-bottom:20px;
+}
+.nombre{
+    font-family:'Raleway', sans-serif ;
+    color:rgba(11, 11, 11, 0.869);
+    font-size: 18px;
+    margin-top: 55px;
+    margin-left:30px ;
+    padding-block:60px;
+}
+.titulo-home{
+    font-size: 20px;
+    font-family:'Raleway', sans-serif ;
+    color:black;
+    padding:10px ;
+    margin-top:70px;
+    margin-left:0;
+    background-color:rgba(255, 255, 255, 0.5) ;
+}
