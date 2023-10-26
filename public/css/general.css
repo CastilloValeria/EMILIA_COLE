@@ -9,22 +9,25 @@ body{
     font: weight 300px;
     background-color: var var(--color-background);
 }
-.navegador-horizontal a{
+.navegador-horizontal-redes{
+    list-style: none;
     text-decoration:none;
     text-align:right;
-    color:#000000;
+    color:var(--color-negro);
     font-weight: bold;
 }
 .navegador-horizontal {
-    background-color:rgba(253, 253, 253, 0.526);
+    list-style: none;
     padding:20px 2px 2px 0p;
+    background-color: #ffffff5d;
     margin-right: 15px;
-    display:inline block;
+    display:inline;
 }
 .navegador-horizontal-redes a{
     color:#000000;
-    margin-right:20px;
+    margin-right:5.5x;
     text-align: right;
-    display: inline;
+    display:inline;
     background-size:12px ;
+    padding:1px 0px 1px 1px;
    }

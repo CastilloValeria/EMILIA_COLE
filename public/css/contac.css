@@ -1,0 +1,23 @@
+
+
+#title-contact{
+    color:var(--color-negro);
+    font-family:'Raleway', sans-serif ;
+    font-size: 18px;
+    margin-top: 55px;
+    margin-left:1cqb ;
+    padding-block:60px;
+}
+h3{
+    color:var(--color-negro);
+    font-family:'Raleway', sans-serif ;
+    font-size:16px;
+    margin:0px;
+}
+h4{
+    color:var(--color-verde);
+    font-size: 12px;
+}
+.info-contact p{
+    font-size: 10px;
+}
